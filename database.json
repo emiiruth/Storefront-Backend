@@ -1,0 +1,16 @@
+{
+    "dev": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "full_stack_dev",
+      "user": "eruth",
+      "password": "password123"
+    },
+    "test": {
+      "driver": "pg",
+      "host": "127.0.0.1",
+      "database": "full_stack_test",
+      "user": "eruth",
+      "password": "password123"
+    }
+  }
